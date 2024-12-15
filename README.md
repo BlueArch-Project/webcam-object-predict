@@ -4,6 +4,12 @@
 
 ## 必要なライブラリのインストール
 
+モデルは以下よりダウンロードして下さい。
+
+```
+https://drive.google.com/file/d/17ALDVqvqgYXzDXbIeREqblOd7hdsBSwg/view?usp=sharing
+```
+
 以下のコマンドを実行して必要なライブラリをインストールしてください。
 
 ```sh
