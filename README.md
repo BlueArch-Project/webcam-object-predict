@@ -26,3 +26,7 @@ python run_detection.py --camera_index <カメラデバイスのインデック�
 ```sh
 python run_detection.py --camera_index <カメラデバイスのインデックス> --model_path <モデルのパス>
 ```
+
+```
+python3 run_detection.py --camera_index 0  --model_path ./best.pt
+```
